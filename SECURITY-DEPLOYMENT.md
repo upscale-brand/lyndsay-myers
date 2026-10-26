@@ -1,0 +1,1 @@
+Serve this static site over HTTPS. External websites linked here, including No Diet Dietitian and LinkedIn, handle their services and information under their own terms. Review the privacy and terms information before launch.
